@@ -13,17 +13,21 @@ package com.uber.mylib;
 public class MyClass {
 
   enum TestExperimentName {
-    
+    SAMPLE_STALE_FLAG
   }
 
   private XPTest expt;
 
   public void foo() {
-    System.out.println("Hello World");
+    if (expt.flagEnabled(TestExperimentName.SAMPLE_STALE_FLAG)) {
+      System.out.println("Hello World");
+    }
   }
 
   public void bar() {
-    System.out.println("Hi World");
+    if (expt.flagDisabled(TestExperimentName.SAMPLE_STALE_FLAG)) {
+      System.out.println("Hi World");
+    }
   }
 
   static class XPTest {
