@@ -4,40 +4,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c86ebc81-fc89-4f22-a4db-4a31c248c6fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/java.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/classes/java/main/com/uber/mylib/MyClass$TestExperimentName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/classes/java/main/com/uber/mylib/MyClass$XPTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/classes/java/main/com/uber/mylib/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/libs/sample.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="c86ebc81-fc89-4f22-a4db-4a31c248c6fb" name="Default Changelist" comment="add file">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/java.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/java.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/hooks/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/config/hooks/pre-commit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/config/properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/sample/config/properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/hooks/pre-commit-stub" beforeDir="false" afterPath="$PROJECT_DIR$/config/hooks/pre-commit-stub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/build/libs/sample.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sample/build/libs/sample.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/uber/mylib/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/uber/mylib/MyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +63,8 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="memory.settings.postsync.last.time.stamp" value="1647506441699" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
@@ -97,6 +77,21 @@
       <option name="presentableId" value="Default" />
       <updated>1647338323581</updated>
     </task>
+    <task id="LOCAL-00001" summary="add file">
+      <created>1647507365963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647507365963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add file">
+      <created>1647507431783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647507431783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,5 +152,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
 </project>
