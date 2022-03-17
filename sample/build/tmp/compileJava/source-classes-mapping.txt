@@ -1,0 +1,4 @@
+com/uber/mylib/MyClass.java
+ com.uber.mylib.MyClass
+ com.uber.mylib.MyClass$TestExperimentName
+ com.uber.mylib.MyClass$XPTest

@@ -2,7 +2,7 @@
   "methodProperties": [
     {
       "methodName": "flagDisabled",
-      "flagType": "control",
+      "flagType": "treated",
       "argumentIndex": 0
     },
     {
@@ -26,7 +26,7 @@
       "argumentIndex": 0
     }
   ],
-  "linkURL": "https://github.com/uber/piranha.git",
+  "linkURL": "https://github.com/volley5566/javat.git",
   "annotations": [
     "FlagTesting"
   ]
