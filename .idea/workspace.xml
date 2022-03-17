@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c86ebc81-fc89-4f22-a4db-4a31c248c6fb" name="Default Changelist" comment="add file">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/java.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/java.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/hooks/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/config/hooks/pre-commit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/hooks/pre-commit-stub" beforeDir="false" afterPath="$PROJECT_DIR$/config/hooks/pre-commit-stub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/build/libs/sample.jar" beforeDir="false" afterPath="$PROJECT_DIR$/sample/build/libs/sample.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/uber/mylib/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/uber/mylib/MyClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="c86ebc81-fc89-4f22-a4db-4a31c248c6fb" name="Default Changelist" comment="add file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
