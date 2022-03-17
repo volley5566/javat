@@ -11,13 +11,14 @@ package com.uber.mylib;
 
 /** A sample class. */
 public class MyClass {
-  //
+
   enum TestExperimentName {
     
   }
 
   private XPTest expt;
   private XPTest expt2;
+  private XPTest expt3;
 
   public void foo() {
     System.out.println("Hello World");
